@@ -1,0 +1,15 @@
+2021-02-08 23:53:02,268 - program - INFO - Program started
+2021-02-08 23:53:52,548 - bot - INFO - to Bah: (<built-in function id>): Здравствуй выбири что надо и пошли дальше
+2021-02-08 23:54:18,336 - bot - INFO - to Bah: (<built-in function id>): Здравствуй выбири что надо и пошли дальше
+2021-02-08 23:54:20,979 - user - INFO - Bah: (<built-in function id>): theory
+2021-02-08 23:54:20,980 - bot - INFO - to Bah: (<built-in function id>): Это теории:
+2021-02-08 23:54:22,381 - user - INFO - Bah: (<built-in function id>): сomplex_num
+2021-02-08 23:54:22,382 - bot - INFO - to Bah: (<built-in function id>): Выбери из списка
+2021-02-08 23:54:25,408 - user - INFO - Bah: (<built-in function id>): сomplex_base
+2021-02-08 23:54:33,575 - user - INFO - Bah: (<built-in function id>): geometric_complex
+2021-02-08 23:54:43,885 - user - INFO - Bah: (<built-in function id>): calculator
+2021-02-08 23:54:43,885 - bot - INFO - to Bah: (<built-in function id>): Пока выбор не большой:
+2021-02-08 23:54:46,536 - user - INFO - Bah: (<built-in function id>): calc_angle_3D
+2021-02-08 23:55:16,922 - program - INFO - Я здесь
+2021-02-09 00:05:17,571 - user - INFO - Bah: (1430403825): д
+2021-02-09 00:05:17,571 - bot - INFO - to Bah: (1430403825): я тебя не понимаю

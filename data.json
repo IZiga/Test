@@ -1,0 +1,90 @@
+{
+  "count": 20154,
+  "items": [
+    {
+      "id": 32691,
+      "from_id": -75512463,
+      "owner_id": -75512463,
+      "date": 1605599989,
+      "marked_as_ads": 0,
+      "post_type": "post",
+      "text": "\ud83c\udfe1\u041f\u0443\u0431\u043b\u0438\u043a\u0443\u0435\u043c \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0431\u044e\u0434\u0436\u0435\u0442\u043e\u0432 \u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u0430 \u0438 \u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430 \u043d\u0430 2021 \u0433\u043e\u0434 \u0438 \u043f\u043b\u0430\u043d\u043e\u0432\u044b\u0439 \u043f\u0435\u0440\u0438\u043e\u0434 2022-2023 \u0433\u043e\u0434\u043e\u0432. \n \n\u0421 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435: https://e-nkama.ru/news/253/93771/",
+      "is_pinned": 1,
+      "attachments": [
+        {
+          "type": "link",
+          "link": {
+            "url": "https://e-nkama.ru/news/253/93771/",
+            "title": "\u041d\u0430 2021: \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0431\u044e\u0434\u0436\u0435\u0442\u043e\u0432 \u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u0430 \u0438 \u0440\u0430\u0439\u043e\u043d\u0430",
+            "caption": "e-nkama.ru",
+            "description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+            "photo": {
+              "album_id": -25,
+              "date": 1605599989,
+              "id": 457317164,
+              "owner_id": 2000001170,
+              "has_tags": false,
+              "sizes": [
+                {
+                  "height": 240,
+                  "url": "https://sun9-48.userapi.com/oUmK-J_zXKdPI0bZPxMmfJXCZetxYi4pMx1CRw/9oz7ykdzPUs.jpg",
+                  "type": "l",
+                  "width": 537
+                },
+                {
+                  "height": 97,
+                  "url": "https://sun9-13.userapi.com/2KFDHrH596dcb1iKsJPjxgGfXJQfvxuyqtH01A/5hEe48i2_IA.jpg",
+                  "type": "m",
+                  "width": 130
+                },
+                {
+                  "height": 195,
+                  "url": "https://sun9-53.userapi.com/kj1gJTxtP3PDksvvrgCTGBoJ4RXRQ9txoS1Jgg/e5InI5fcetM.jpg",
+                  "type": "p",
+                  "width": 260
+                },
+                {
+                  "height": 56,
+                  "url": "https://sun9-15.userapi.com/ByiTc037xv__CYq0ZV8xrB1wOllHeIp1ytpGAg/AOjb_Gq0tYw.jpg",
+                  "type": "s",
+                  "width": 75
+                },
+                {
+                  "height": 112,
+                  "url": "https://sun9-52.userapi.com/RCklPFgOLf3Y1RprPX_pT9L59_kMjApa9NHHcA/MWJiVnZpiIc.jpg",
+                  "type": "x",
+                  "width": 150
+                }
+              ],
+              "text": "",
+              "user_id": 100
+            },
+            "is_favorite": false
+          }
+        }
+      ],
+      "post_source": {
+        "type": "vk"
+      },
+      "comments": {
+        "count": 0,
+        "can_post": 1,
+        "groups_can_post": true
+      },
+      "likes": {
+        "count": 2,
+        "user_likes": 0,
+        "can_like": 1,
+        "can_publish": 1
+      },
+      "reposts": {
+        "count": 1,
+        "user_reposted": 0
+      },
+      "views": {
+        "count": 685
+      },
+      "is_favorite": false
+    }
+  ]
+}
