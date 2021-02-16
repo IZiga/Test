@@ -4,8 +4,8 @@
 /Theory
 /venv
 /Zad
-.idea
-__pycache__
+/.idea
+/__pycache__
 code.txt
 config.py
 
